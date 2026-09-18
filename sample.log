@@ -1,0 +1,9 @@
+INFO User logged in
+INFO User logged in
+WARNING Failed login attempt
+ERROR Database connection failed
+INFO User logged in
+ERROR Database connection failed
+WARNING Disk space is getting low
+INFO User logged out
+ERROR Database connection failed
