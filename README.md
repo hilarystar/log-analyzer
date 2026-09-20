@@ -9,6 +9,8 @@ A simple Python command-line tool that analyzes log files and summarizes log act
 - Finds the most common error
 - Displays an error breakdown
 - Handles missing log files
+- Supports JSON outputs for machine readable results
+- Include automated tests
 
 ## How to Run
 
